@@ -5,7 +5,6 @@
 ![image](https://github.com/MrMarvinColex/Physics-in-Unity-YTCourse/blob/main/data/Ridigbody_and_info.png?raw=true)
 
 `mass` — mass of GameObject, measured in Kg.
-
 `drag` — drag (~~сопротивление, трение~~) of an object. It's work like change of external environment, for example, place object in water.
 
 `angular drag` — previos one, but regulate rotation.
